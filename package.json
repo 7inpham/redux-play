@@ -1,0 +1,14 @@
+{
+  "name": "redux-play",
+  "version": "1.0.0",
+  "description": "Playing with Redux",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Tin Pham <7inpham@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "redux": "^4.0.5"
+  }
+}
